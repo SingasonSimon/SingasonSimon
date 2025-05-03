@@ -5,9 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
 ###
@@ -18,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 👋</h1>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  from KENYA<br><br>- 🔭 I’m working as Front-end developer<br>- 📚 I'm currently learning IT<br>- ⚡ In my free time I Listen to podcasts, Make Art, Watch movies and series<br>- 📞 Reach out via +254748088741</p>
+<p align="left">- 🔭 𝕀’𝕞 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕒𝕤 𝔽𝕣𝕠𝕟𝕥-𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣- 📚 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕀𝕋- ⚡ 𝕀𝕟 𝕞𝕪 𝕗𝕣𝕖𝕖 𝕥𝕚𝕞𝕖 𝕀 𝕃𝕚𝕤𝕥𝕖𝕟 𝕥𝕠 𝕡𝕠𝕕𝕔𝕒𝕤𝕥𝕤, 𝕄𝕒𝕜𝕖 𝔸𝕣𝕥, 𝕎𝕒𝕥𝕔𝕙 𝕞𝕠𝕧𝕚𝕖𝕤 𝕒𝕟𝕕 𝕤𝕖𝕣𝕚𝕖𝕤- 📞 ℝ𝕖𝕒𝕔𝕙 𝕠𝕦𝕥 𝕧𝕚𝕒 +𝟚𝟝𝟜𝟟𝟜𝟠𝟘𝟠𝟠𝟟𝟜𝟙</p>
 
 ###
 
@@ -72,6 +74,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 </div>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/SingasonSimon/count.svg?"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/pacman-contribution-graph.svg">
+</picture>
+
+###
