@@ -15,16 +15,16 @@
   <a href="https://youtube.com/@SingasonSimon">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
   </a>
-  <a href="https://twitter.com/SingasonSimon">
+  <a href="https://twitter.com/@x_dash_io">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
   </a>
-  <a href="https://instagram.com/SingasonSimon">
+  <a href="https://instagram.com/singason.py">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="https://codepen.io/SingasonSimon">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo" />
   </a>
-  <a href="https://t.me/SingasonSimon">
+  <a href="https://t.me/@x_dash_io">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
   </a>
 </div>
