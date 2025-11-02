@@ -165,13 +165,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SingasonSimon/count.svg?" alt="Profile counter" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SingasonSimon&title=Profile%20Views&countColor=%23FF6B6B&icon=github&iconColor=%23FFFFFF" alt="Profile counter" />
 </div>
 
 ###
