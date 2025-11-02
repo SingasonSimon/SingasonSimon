@@ -38,7 +38,52 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <h2>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🏆+GitHub+Trophies">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=🏆+GitHub+Trophies">
+    </picture>
+  </h2>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+###
+
+<div align="center" style="font-family: 'Poppins', sans-serif;">
+  
+  <h3>🎯 Achievement Categories</h3>
+  
+  <p>
+    <strong>⭐ Stars</strong> • 
+    <strong>💻 Commits</strong> • 
+    <strong>📦 Repositories</strong> • 
+    <strong>👥 Followers</strong> • 
+    <strong>🌐 Multi-Language</strong> • 
+    <strong>🔀 Pull Requests</strong> • 
+    <strong>🐛 Issues</strong> • 
+    <strong>✅ Issues Solved</strong>
+  </p>
+  
+</div>
+
+###
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Stars" alt="Stars Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Commits" alt="Commits Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Repositories" alt="Repositories Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Followers" alt="Followers Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage" alt="MultiLanguage Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=PR" alt="PR Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Issues" alt="Issues Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&title=Solved" alt="Solved Trophy" />
+  
 </div>
 
 ###
@@ -270,12 +315,6 @@
   <a href="https://codepen.io/SingasonSimon" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SingasonSimon&title=Profile%20Views&countColor=%23FF6B6B&icon=github&iconColor=%23FFFFFF" alt="Profile counter" />
 </div>
 
 ###
