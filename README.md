@@ -1,92 +1,183 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Singason+Simon!;" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://github.com/SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
+  </a>
+  <a href="https://youtube.com/@SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
+  </a>
+  <a href="https://twitter.com/SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+  </a>
+  <a href="https://instagram.com/SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
+  <a href="https://codepen.io/SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo" />
+  </a>
+  <a href="https://t.me/SingasonSimon">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SingasonSimon.SingasonSimon&"  />
+  <img src="https://komarev.com/ghpvc/?username=SingasonSimon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
 ###
 
-<h1 align="center">ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 👋</h1>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SingasonSimon&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
 ###
 
-<p align="left">
-  - 🔭 𝕀’𝕞 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕒𝕤 𝔽𝕣𝕠𝕟𝕥-𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
-  - 📚 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕀𝕋
-  - ⚡ 𝕀𝕟 𝕞𝕪 𝕗𝕣𝕖𝕖 𝕥𝕚𝕞𝕖 𝕀 𝕃𝕚𝕤𝕥𝕖𝕟 𝕥𝕠 𝕡𝕠𝕕𝕔𝕒𝕤𝕥𝕤, 𝕄𝕒𝕜𝕖 𝔸𝕣𝕥, 𝕎𝕒𝕥𝕔𝕙 𝕞𝕠𝕧𝕚𝕖𝕤 𝕒𝕟𝕕 𝕤𝕖𝕣𝕚𝕖𝕤
-  - 📞 ℝ𝕖𝕒𝕔𝕙 𝕠𝕦𝕥 𝕧𝕚𝕒 +𝟚𝟝𝟜𝟟𝟜𝟠𝟘𝟠𝟠𝟟𝟜𝟙</p>
+<div align="center">
+  
+  🔭 **I'm working as Front-end developer**
+  
+  📚 **I'm currently learning IT**
+  
+  ⚡ **In my free time I:** Listen to podcasts, Make Art, Watch movies and series
+  
+  📞 **Reach out via:** +254748088741
+  
+  💬 **Ask me about:** Frontend Development, JavaScript, HTML/CSS, PHP, Laravel
+  
+</div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 ###
+
+<h3 align="left">Frontend Development</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SingasonSimon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<h3 align="left">Backend Development</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+</div>
+
+###
+
+<h3 align="left">Tools & Others</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+</div>
+
+###
+
+<h2 align="center">🔥 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SingasonSimon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="220" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SingasonSimon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=false&order=2" height="220" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SingasonSimon/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=SingasonSimon&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SingasonSimon&theme=github-compact&hide_border=false" height="300" alt="activity graph" />
+</div>
+
+###
+
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://twitter.com/SingasonSimon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://youtube.com/@SingasonSimon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://instagram.com/SingasonSimon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://wa.me/254748088741" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="https://t.me/SingasonSimon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://codepen.io/SingasonSimon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SingasonSimon/count.svg?" alt="Profile counter" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SingasonSimon/SingasonSimon/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Thanks+for+visiting!+😊;+Feel+free+to+reach+out+if+you+have+any+questions!;" />
+</div>
 
 ###
